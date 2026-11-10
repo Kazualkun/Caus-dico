@@ -1,0 +1,38 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+
+CONTRATANTE: Padaria Exemplo Ltda., pessoa jurídica de direito privado, inscrita no CNPJ sob o nº XX.XXX.XXX/0001-XX, com sede na Rua Fictícia, nº 100, Campinas/SP.
+
+CONTRATADA: Sistemas Modelo Tecnologia S.A., pessoa jurídica de direito privado, inscrita no CNPJ sob o nº YY.YYY.YYY/0001-YY, com sede na Avenida Imaginária, nº 2000, Manaus/AM.
+
+CLÁUSULA 1ª – DO OBJETO
+1.1. A CONTRATADA prestará à CONTRATANTE serviços de licenciamento, implantação e suporte do sistema de gestão de vendas "Modelo PDV", conforme descrito no Anexo I.
+
+CLÁUSULA 2ª – DO PREÇO E DO REAJUSTE
+2.1. A CONTRATANTE pagará à CONTRATADA o valor mensal de R$ 2.500,00 (dois mil e quinhentos reais), com vencimento no dia 5 de cada mês.
+2.2. O valor poderá ser reajustado a qualquer tempo, a critério exclusivo da CONTRATADA, mediante simples comunicação por e-mail.
+2.3. O atraso no pagamento sujeitará a CONTRATANTE a multa de 20% (vinte por cento) e juros de 10% (dez por cento) ao mês.
+
+CLÁUSULA 3ª – DO PRAZO E DA RESCISÃO
+3.1. O presente contrato vigorará por 60 (sessenta) meses, renovando-se automaticamente por iguais períodos.
+3.2. Em caso de rescisão antecipada pela CONTRATANTE, por qualquer motivo, será devida multa equivalente a 100% (cem por cento) das mensalidades vincendas até o fim do prazo contratual.
+3.3. A CONTRATADA poderá rescindir o contrato a qualquer momento, sem aviso prévio e sem qualquer ônus.
+
+CLÁUSULA 4ª – DOS NÍVEIS DE SERVIÇO
+4.1. A CONTRATADA envidará seus melhores esforços para manter o sistema disponível.
+
+CLÁUSULA 5ª – DA RESPONSABILIDADE
+5.1. A CONTRATADA não se responsabiliza, em nenhuma hipótese, por perdas de dados, lucros cessantes ou quaisquer danos decorrentes do uso ou da indisponibilidade do sistema, ainda que causados por culpa ou dolo de seus prepostos.
+
+CLÁUSULA 6ª – DOS DADOS
+6.1. Os dados inseridos no sistema, inclusive dados pessoais dos clientes da CONTRATANTE, passam a ser de propriedade da CONTRATADA, que poderá utilizá-los para quaisquer fins.
+
+CLÁUSULA 7ª – DO FORO
+7.1. Fica eleito o foro da Comarca de Manaus/AM, com renúncia a qualquer outro, por mais privilegiado que seja.
+
+Campinas, 1º de outubro de 2026.
+
+______________________________
+CONTRATANTE
+
+______________________________
+CONTRATADA

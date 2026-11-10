@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793210982942,
+      "tag": "0000_busca_textual",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793211182353,
+      "tag": "0001_esquema_inicial",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793233643184,
+      "tag": "0002_limites_taxa",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793241540402,
+      "tag": "0003_curadoria_pagamentos_contato",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1793293155424,
+      "tag": "0004_crm_prazos_pecas",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1793664976455,
+      "tag": "0005_fila_ia",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1793668363829,
+      "tag": "0006_indice_apelido",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+CREATE INDEX "normas_apelido_trgm_idx" ON "normas" USING gin ("apelido" gin_trgm_ops) WHERE apelido is not null;
